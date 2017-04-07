@@ -30,4 +30,7 @@ namespace shapes {
 		return sh;
 	}
 	
+	bool shape::Compare(shape &other) {
+		return Volume() < other.Volume();
+	}
 }

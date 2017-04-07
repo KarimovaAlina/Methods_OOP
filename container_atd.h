@@ -13,6 +13,7 @@ namespace shapes {
 		void Out(ofstream &ofst); // вывод фигур
 		void ClearContainer(); // очистка контейнера от фигур
 		void Volume(ofstream &ofst);
+		void Sort();
 		container() { n = 0; cont = NULL; }  // инициализация контейнера
 		~container() { ClearContainer(); } // утилизация контейнера
 	};

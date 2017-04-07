@@ -71,4 +71,20 @@ namespace shapes {
 			++s;
 		}
 	}
+
+	void container::Sort() {
+
+		for (int i = 0; i < n - 1; i++) {
+			list* cur = cont;
+			for (int j = i + 1; j < n; j++) {
+				if (cur->sh->Compare(*(cur->next->sh))) {
+					shape *tmp = cur->sh;
+					cur->sh = cur->next->sh;
+					cur->next->sh = tmp;
+				}
+				cur = cur->next;
+			}
+		}
+		
+	}
 }

@@ -15,6 +15,7 @@ namespace shapes {
 		virtual void InData(ifstream &ifst) = 0; // ввод
 		virtual void Out(ofstream &ofst) = 0; // вывод
 		virtual double Volume() = 0;
+		bool Compare(shape &other);
 	protected:
 		shape() {};
 	};
