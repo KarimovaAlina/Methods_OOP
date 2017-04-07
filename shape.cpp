@@ -29,5 +29,15 @@ namespace shapes {
 		ifst >> sh->destiny;
 		return sh;
 	}
+
+	void shape::InData(ifstream &ifst) {
+		ifst >> temp;
+	}
+
+	void shape::Out(ofstream &ofst) {
+		ofst << ", Melting temperature = " << temp;
+	}
+
+
 	
 }
