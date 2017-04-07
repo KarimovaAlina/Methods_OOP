@@ -12,4 +12,9 @@ namespace shapes {
 	void sphere::Out(ofstream &ofst) {
 		ofst << "It is sphere: radius = " << rad;
 	}
+
+	void sphere::OutSphere(ofstream &ofst) {
+		Out(ofst);
+		ofst << ", Destiny = " << destiny << "." << endl;
+	}
 }

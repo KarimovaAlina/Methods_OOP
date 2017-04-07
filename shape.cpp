@@ -29,5 +29,9 @@ namespace shapes {
 		ifst >> sh->destiny;
 		return sh;
 	}
+
+	void shape::OutSphere(ofstream &ofst) {
+		
+	}
 	
 }

@@ -56,4 +56,18 @@ namespace shapes {
 		n = 0;
 		cont = NULL;
 	}
+
+	void container::OutSphere(ofstream &ofst) {
+		ofst << "Only spheres." << endl;
+		list* cur = cont;
+		int s = 0;
+		while (cur != NULL && s < n)
+		{
+			
+			cur->sh->OutSphere(ofst);
+			
+			cur = cur->next;
+			++s;
+		}
+	}
 }

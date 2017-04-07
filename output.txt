@@ -1,0 +1,13 @@
+Filled container. 
+Only spheres.
+It is sphere: radius = 20, Destiny = 15.5.
+It is sphere: radius = 50, Destiny = 190.9.
+It is sphere: radius = 25, Destiny = 50.7.
+It is sphere: radius = 80, Destiny = 5.4.
+It is sphere: radius = 20, Destiny = 75.1.
+It is sphere: radius = 33, Destiny = 33.
+It is sphere: radius = 44, Destiny = 44.
+It is sphere: radius = 45, Destiny = 54.
+It is sphere: radius = 54, Destiny = 45.
+Empty container. 
+Container contains 0 elements.
