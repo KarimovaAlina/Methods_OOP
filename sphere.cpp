@@ -12,4 +12,8 @@ namespace shapes {
 	void sphere::Out(ofstream &ofst) {
 		ofst << "It is sphere: radius = " << rad;
 	}
+
+	double sphere::Volume() {
+		return rad * rad * rad * 3.1415 * 4 / 3;
+	}
 }

@@ -12,6 +12,7 @@ namespace shapes {
 		// переопределяем интерфейс класса
 		void InData(ifstream &ifst); // ввод
 		void Out(ofstream &ofst); // вывод
+		double Volume();
 		parallelepiped() {} // создание без инициализации.
 	};
 }
