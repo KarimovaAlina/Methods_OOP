@@ -56,4 +56,19 @@ namespace shapes {
 		n = 0;
 		cont = NULL;
 	}
+
+	void container::Volume(ofstream &ofst) {
+		ofst << "Container contents " << n
+			<< " elements." << endl;
+		list* cur = cont;
+		int s = 0;
+		while (cur != NULL && s < n)
+		{
+			ofst << s + 1 << " :  ";
+			cur->sh->Out(ofst);
+			ofst << ", Destiny = " << cur->sh->destiny << ", Volume = " << cur->sh->Volume() << "." << endl;
+			cur = cur->next;
+			++s;
+		}
+	}
 }
