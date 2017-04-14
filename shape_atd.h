@@ -7,9 +7,12 @@ using namespace std;
 
 namespace shapes {
 	class shape {
+		int temp;
 	public:
 		type t;
 		double destiny;
+
+		
 
 		static shape* In(ifstream &ifst);
 		virtual void InData(ifstream &ifst) = 0; // ввод
