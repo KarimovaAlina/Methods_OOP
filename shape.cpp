@@ -1,5 +1,6 @@
 #include "sphere_atd.h"
 #include "parallelepiped_atd.h"
+#include "tetrahedron_atd.h"
 #include "shape_atd.h"
 
 
@@ -20,6 +21,9 @@ namespace shapes {
 		case 1:
 			sh = new parallelepiped;
 			break;
+		case 2:
+			sh = new tetrahedron;
+			break;
 		default:
 			return NULL;
 			break;
@@ -28,6 +32,10 @@ namespace shapes {
 		sh->InData(ifst);
 		ifst >> sh->destiny;
 		return sh;
+	}
+
+	void shape::OutSphere(ofstream &ofst) {
+		
 	}
 	
 	bool shape::Compare(shape &other) {
