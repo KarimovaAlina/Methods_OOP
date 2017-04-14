@@ -18,4 +18,9 @@ namespace shapes {
 	double sphere::Volume() {
 		return rad * rad * rad * 3.1415 * 4 / 3;
 	}
+
+	void sphere::OutSphere(ofstream &ofst) {
+		Out(ofst);
+		ofst << ", Destiny = " << destiny << "." << endl;
+	}
 }

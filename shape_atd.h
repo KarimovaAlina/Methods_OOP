@@ -12,13 +12,15 @@ namespace shapes {
 		type t;
 		double destiny;
 
-		
-
 		static shape* In(ifstream &ifst);
 		virtual void InData(ifstream &ifst) = 0; // ввод
 		virtual void Out(ofstream &ofst) = 0; // вывод
+
 		virtual double Volume() = 0;
 		bool Compare(shape &other);
+
+		virtual void OutSphere(ofstream &ofst);
+
 	protected:
 		shape() {};
 	};

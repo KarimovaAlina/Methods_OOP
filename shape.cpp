@@ -30,6 +30,7 @@ namespace shapes {
 		return sh;
 	}
 
+
 	void shape::InData(ifstream &ifst) {
 		ifst >> temp;
 	}
@@ -38,6 +39,11 @@ namespace shapes {
 		ofst << ", Melting temperature = " << temp;
 	}
 
+
+
+	void shape::OutSphere(ofstream &ofst) {
+		
+	}
 
 	
 	bool shape::Compare(shape &other) {

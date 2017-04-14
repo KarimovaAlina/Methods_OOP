@@ -57,6 +57,7 @@ namespace shapes {
 		cont = NULL;
 	}
 
+
 	void container::Volume(ofstream &ofst) {
 		ofst << "Container contents " << n
 			<< " elements." << endl;
@@ -71,6 +72,21 @@ namespace shapes {
 			++s;
 		}
 	}
+
+	void container::OutSphere(ofstream &ofst) {
+		ofst << "Only spheres." << endl;
+		list* cur = cont;
+		int s = 0;
+		while (cur != NULL && s < n)
+		{
+			
+			cur->sh->OutSphere(ofst);
+			
+			cur = cur->next;
+			++s;
+		}
+	}
+
 
 	void container::Sort() {
 
@@ -87,4 +103,7 @@ namespace shapes {
 		}
 		
 	}
+	
+	
+
 }
