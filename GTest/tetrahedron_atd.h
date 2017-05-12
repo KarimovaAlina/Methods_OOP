@@ -6,7 +6,7 @@
 
 namespace shapes {
 	class tetrahedron : public shape {
-		
+	
 	public:
 		int side;
 		// переопределяем интерфейс класса

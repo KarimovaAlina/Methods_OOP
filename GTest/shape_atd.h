@@ -22,6 +22,7 @@ namespace shapes {
 
 		virtual void OutSphere(ofstream &ofst);
 
+	
 		shape() {};
 	};
 }

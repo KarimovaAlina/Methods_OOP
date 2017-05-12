@@ -1,0 +1,1 @@
+It is tetrahedron: side = 7, Melting temperature = 6500

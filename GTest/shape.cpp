@@ -13,16 +13,20 @@ namespace shapes {
 
 		int type;
 		ifst >> type;
+		
 		switch (type)
 		{
 		case 0:
 			sh = new sphere;
+			sh->t = SPHERE;
 			break;
 		case 1:
 			sh = new parallelepiped;
+			sh->t = PARALLELEPIPED;
 			break;
 		case 2:
 			sh = new tetrahedron;
+			sh->t = TETRAHEDRON;
 			break;
 		default:
 			return NULL;
