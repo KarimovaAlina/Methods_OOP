@@ -1,3 +1,4 @@
+#include "Secure.h"
 #include "sphere_atd.h"
 #include "parallelepiped_atd.h"
 #include "tetrahedron_atd.h"
@@ -9,10 +10,18 @@
 
 namespace shapes {
 	shape* shape::In(ifstream &ifst) {
+		ChckInFile(ifst);
+		if (ifst.eof())
+		{
+			cout << "Error. Too many shapes is specified." << endl;
+			system("pause");
+			exit(1);
+		}
 		shape *sh;
-
 		int type;
 		ifst >> type;
+		ChckInValue(ifst);
+		ChckNegative(type);
 		switch (type)
 		{
 		case 0:
@@ -32,15 +41,21 @@ namespace shapes {
 		sh->InData(ifst);
 		
 		ifst >> sh->destiny;
+		ChckInValue(ifst);
+		ChckNegative(sh->destiny);
 		return sh;
 	}
 
 
 	void shape::InData(ifstream &ifst) {
 		ifst >> temp;
+		ChckInValue(ifst);
+		ChckNegative(temp);
+
 	}
 
 	void shape::Out(ofstream &ofst) {
+		ChckOutFile(ofst);
 		ofst << ", Melting temperature = " << temp;
 	}
 

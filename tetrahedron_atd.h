@@ -6,9 +6,8 @@
 
 namespace shapes {
 	class tetrahedron : public shape {
-		
-	public:
 		int side;
+	public:
 		// переопределяем интерфейс класса
 		void InData(ifstream &ifst); // ввод
 		void Out(ofstream &ofst); // вывод

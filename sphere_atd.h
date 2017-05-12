@@ -6,9 +6,8 @@
 
 namespace shapes {
 	class sphere : public shape {
-		
-	public:
 		int rad;
+	public:
 		// переопределяем интерфейс класса
 		void InData(ifstream &ifst); // ввод
 		void Out(ofstream &ofst); // вывод

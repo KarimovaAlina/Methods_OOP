@@ -7,11 +7,10 @@ using namespace std;
 
 namespace shapes {
 	class shape {
-		
+		int temp;
 	public:
 		type t;
 		double destiny;
-		int temp;
 
 		static shape* In(ifstream &ifst);
 		virtual void InData(ifstream &ifst) = 0; // ввод
@@ -22,6 +21,7 @@ namespace shapes {
 
 		virtual void OutSphere(ofstream &ofst);
 
+	protected:
 		shape() {};
 	};
 }

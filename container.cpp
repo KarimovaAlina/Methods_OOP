@@ -1,9 +1,11 @@
+#include "Secure.h"
 #include "container_atd.h"
 #include "list.h"
 
 
 namespace shapes {
 	void container::Out(ofstream &ofst) {
+		ChckOutFile(ofst);
 		ofst << "Container contains " << n << " elements." << endl;
 		list* cur = cont;
 		int s = 0;
@@ -59,6 +61,7 @@ namespace shapes {
 
 
 	void container::Volume(ofstream &ofst) {
+		ChckOutFile(ofst);
 		ofst << "Container contents " << n
 			<< " elements." << endl;
 		list* cur = cont;
@@ -74,6 +77,7 @@ namespace shapes {
 	}
 
 	void container::OutSphere(ofstream &ofst) {
+		ChckOutFile(ofst);
 		ofst << "Only spheres." << endl;
 		list* cur = cont;
 		int s = 0;
