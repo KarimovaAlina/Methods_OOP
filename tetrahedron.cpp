@@ -1,8 +1,10 @@
 #include"Secure.h"
 #include "tetrahedron_atd.h"
 
-namespace shapes {
-	void tetrahedron::InData(ifstream &ifst) {
+namespace shapes 
+{
+	void tetrahedron::InData(ifstream &ifst) 
+	{
 		ChckInFile(ifst);
 		ifst >> side;
 		ChckInValue(ifst);
@@ -11,13 +13,15 @@ namespace shapes {
 	}
 
 
-	void tetrahedron::Out(ofstream &ofst) {
+	void tetrahedron::Out(ofstream &ofst) 
+	{
 		ChckOutFile(ofst);
 		ofst << "It is tetrahedron: side = " << side;
 		shape::Out(ofst);
 	}
 
-	double tetrahedron::Volume() {
+	double tetrahedron::Volume() 
+	{
 		return (side * side * side * sqrt((double)2)  / 12);
 	}
 }

@@ -3,8 +3,10 @@
 #include "list.h"
 
 
-namespace shapes {
-	void container::Out(ofstream &ofst) {
+namespace shapes 
+{
+	void container::Out(ofstream &ofst) 
+	{
 		ChckOutFile(ofst);
 		ofst << "Container contains " << n << " elements." << endl;
 		list* cur = cont;
@@ -19,7 +21,8 @@ namespace shapes {
 		}
 	}
 
-	void container::In(ifstream &ifst) {
+	void container::In(ifstream &ifst) 
+	{
 		list* cur = cont;
 		if (cont == NULL)
 		{
@@ -34,7 +37,8 @@ namespace shapes {
 			cur = cur->next;
 		}
 		list* prev = cur;
-		while(!ifst.eof()) {
+		while(!ifst.eof()) 
+		{
 			if ((cur->sh = shape::In(ifst)) != 0)
 			{
 				++n;
@@ -46,7 +50,8 @@ namespace shapes {
 		prev->next = NULL;
 	}
 
-	void container::ClearContainer() {
+	void container::ClearContainer() 
+	{
 		list* a;
 		while (cont != NULL && n > 0)
 		{
@@ -60,7 +65,8 @@ namespace shapes {
 	}
 
 
-	void container::Volume(ofstream &ofst) {
+	void container::Volume(ofstream &ofst) 
+	{
 		ChckOutFile(ofst);
 		ofst << "Container contents " << n
 			<< " elements." << endl;
@@ -76,7 +82,8 @@ namespace shapes {
 		}
 	}
 
-	void container::OutSphere(ofstream &ofst) {
+	void container::OutSphere(ofstream &ofst) 
+	{
 		ChckOutFile(ofst);
 		ofst << "Only spheres." << endl;
 		list* cur = cont;
@@ -92,12 +99,16 @@ namespace shapes {
 	}
 
 
-	void container::Sort() {
+	void container::Sort() 
+	{
 
-		for (int i = 0; i < n - 1; i++) {
+		for (int i = 0; i < n - 1; i++) 
+		{
 			list* cur = cont;
-			for (int j = i + 1; j < n; j++) {
-				if (cur->sh->Compare(*(cur->next->sh))) {
+			for (int j = i + 1; j < n; j++) 
+			{
+				if (cur->sh->Compare(*(cur->next->sh))) 
+				{
 					shape *tmp = cur->sh;
 					cur->sh = cur->next->sh;
 					cur->next->sh = tmp;

@@ -4,8 +4,10 @@
 #include "shape_atd.h"
 
 
-namespace shapes {
-	class sphere : public shape {
+namespace shapes 
+{
+	class sphere : public shape 
+	{
 		int rad;
 	public:
 		// переопределяем интерфейс класса

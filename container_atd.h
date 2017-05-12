@@ -4,8 +4,10 @@
 #include "shape_atd.h"
 using namespace std;
 
-namespace shapes {
-	class container {
+namespace shapes 
+{
+	class container 
+	{
 		int n; // текущая длина
 		list *cont;
 	public:

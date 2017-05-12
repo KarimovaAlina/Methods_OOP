@@ -5,8 +5,10 @@
 using namespace std;
 
 
-namespace shapes {
-	class shape {
+namespace shapes 
+{
+	class shape
+	{
 		int temp;
 	public:
 		type t;

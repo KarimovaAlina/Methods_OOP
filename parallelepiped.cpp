@@ -2,8 +2,10 @@
 #include "parallelepiped_atd.h"
 
 
-namespace shapes {
-	void parallelepiped::InData(ifstream &ifst) {
+namespace shapes 
+{
+	void parallelepiped::InData(ifstream &ifst)
+	{
 		ChckInFile(ifst);
 		ifst >> e1;
 		ChckInValue(ifst);
@@ -18,13 +20,15 @@ namespace shapes {
 	}
 
 
-	void parallelepiped::Out(ofstream &ofst) {
+	void parallelepiped::Out(ofstream &ofst) 
+	{
 		ChckOutFile(ofst);
 		ofst << "It is parallelepiped:  a = " << e1 << ", b = " << e2 << ", c = " << e3;
 		shape::Out(ofst);
 	}
 
-	double parallelepiped::Volume() {
+	double parallelepiped::Volume()
+	{
 		return e1 * e2 * e3;
 	}
 }

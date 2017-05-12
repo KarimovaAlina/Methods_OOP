@@ -4,8 +4,10 @@
 #include "shape_atd.h"
 
 
-namespace shapes {
-	class tetrahedron : public shape {
+namespace shapes 
+{
+	class tetrahedron : public shape 
+	{
 		int side;
 	public:
 		// переопределяем интерфейс класса

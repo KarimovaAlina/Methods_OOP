@@ -8,8 +8,10 @@
 
 
 
-namespace shapes {
-	shape* shape::In(ifstream &ifst) {
+namespace shapes 
+{
+	shape* shape::In(ifstream &ifst) 
+	{
 		ChckInFile(ifst);
 		if (ifst.eof())
 		{
@@ -47,26 +49,30 @@ namespace shapes {
 	}
 
 
-	void shape::InData(ifstream &ifst) {
+	void shape::InData(ifstream &ifst) 
+	{
 		ifst >> temp;
 		ChckInValue(ifst);
 		ChckNegative(temp);
 
 	}
 
-	void shape::Out(ofstream &ofst) {
+	void shape::Out(ofstream &ofst) 
+	{
 		ChckOutFile(ofst);
 		ofst << ", Melting temperature = " << temp;
 	}
 
 
 
-	void shape::OutSphere(ofstream &ofst) {
+	void shape::OutSphere(ofstream &ofst) 
+	{
 		
 	}
 
 	
-	bool shape::Compare(shape &other) {
+	bool shape::Compare(shape &other) 
+	{
 		return Volume() < other.Volume();
 	}
 }
