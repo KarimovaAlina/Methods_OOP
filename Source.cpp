@@ -39,7 +39,8 @@ int main(int argc, char* argv[])
 	c.Volume(ofst);
 
 	c.OutSphere(ofst);
-
+	ofst << endl;
+	c.MultiMethod(ofst);
 	c.ClearContainer();
 	ofst << "Empty container. " << endl;
 	c.Out(ofst);

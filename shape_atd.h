@@ -23,6 +23,10 @@ namespace shapes
 
 		virtual void OutSphere(ofstream &ofst);
 
+		virtual void MultiMethod(shape *other, ofstream &f) = 0;
+		virtual void MultiMethodCaseSphere(ofstream &f) = 0;
+		virtual void MultiMethodCaseParallelepiped(ofstream &f) = 0;
+		virtual void MultiMethodCaseTetrahedron(ofstream &f) = 0;
 	protected:
 		shape() {};
 	};

@@ -1,6 +1,8 @@
 #include "Secure.h"
 #include "parallelepiped_atd.h"
+#include <fstream>
 
+using namespace std;
 
 namespace shapes 
 {
@@ -30,5 +32,25 @@ namespace shapes
 	double parallelepiped::Volume()
 	{
 		return e1 * e2 * e3;
+	}
+
+	void parallelepiped::MultiMethod(shape *other, ofstream &file)
+	{
+		other->MultiMethodCaseParallelepiped(file);
+	}
+
+	void parallelepiped::MultiMethodCaseSphere(ofstream &file)
+	{
+		file << "Sphere and Parallelepiped" << endl;
+	}
+
+	void parallelepiped::MultiMethodCaseParallelepiped(ofstream &file)
+	{
+		file << "Parallelepiped and Parallelepiped" << endl;
+	}
+
+	void parallelepiped::MultiMethodCaseTetrahedron(ofstream &file)
+	{
+		file << "Tetrahedron and Parallelepiped" << endl;
 	}
 }

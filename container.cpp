@@ -119,6 +119,25 @@ namespace shapes
 		
 	}
 	
-	
+	void container::MultiMethod(ofstream &file)
+	{
+		file << "Multimethod:" << endl;
+		list *temp1 = cont;
+		list *temp2 = cont->next;
+		while (temp1->next != NULL)
+		{
+			temp2 = cont->next;
+			while (temp2 != NULL)
+			{
+				temp1->sh->MultiMethod(temp2->sh, file);
+				temp1->sh->Out(file);
+				file << ", V = " << temp1->sh->Volume() << endl;
+				temp2->sh->Out(file);
+				file << ", V = " << temp2->sh->Volume() << endl << endl;
+				temp2 = temp2->next;
+			}
+			temp1 = temp1->next;
+		}
+	}
 
 }

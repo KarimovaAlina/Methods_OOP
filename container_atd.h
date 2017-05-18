@@ -17,6 +17,8 @@ namespace shapes
 
 		void Volume(ofstream &ofst);
 		void Sort();
+
+		void MultiMethod(ofstream &file);
 		
 		virtual void OutSphere(ofstream &ofst);
 		container() { n = 0; cont = NULL; }  // инициализация контейнера

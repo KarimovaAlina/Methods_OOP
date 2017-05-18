@@ -24,4 +24,24 @@ namespace shapes
 	{
 		return (side * side * side * sqrt((double)2)  / 12);
 	}
+
+	void tetrahedron::MultiMethod(shape *other, ofstream &file)
+	{
+		other->MultiMethodCaseTetrahedron(file);
+	}
+
+	void tetrahedron::MultiMethodCaseSphere(ofstream &file)
+	{
+		file << "Sphere and Tetrahedron" << endl;
+	}
+
+	void tetrahedron::MultiMethodCaseParallelepiped(ofstream &file)
+	{
+		file << "Parallelepiped and Tetrahedron" << endl;
+	}
+
+	void tetrahedron::MultiMethodCaseTetrahedron(ofstream &file)
+	{
+		file << "Tetrahedron and Tetrahedron" << endl;
+	}
 }

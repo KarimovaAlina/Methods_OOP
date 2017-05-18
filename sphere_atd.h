@@ -18,6 +18,11 @@ namespace shapes
 
 		void OutSphere(ofstream &ofst);
 
+		void MultiMethod(shape *other, ofstream &file);
+		void MultiMethodCaseSphere(ofstream &file);
+		void MultiMethodCaseParallelepiped(ofstream &file);
+		void MultiMethodCaseTetrahedron(ofstream &file);
+
 		sphere() {} // создание без инициализации.
 	};
 }

@@ -32,4 +32,24 @@ namespace shapes
 		Out(ofst);
 		ofst << ", Destiny = " << destiny << "." << endl;
 	}
+
+	void sphere::MultiMethod(shape *other, ofstream &file)
+	{
+		other->MultiMethodCaseSphere(file);
+	}
+
+	void sphere::MultiMethodCaseSphere(ofstream &file)
+	{
+		file << "Sphere and Sphere" << endl;
+	}
+
+	void sphere::MultiMethodCaseParallelepiped(ofstream &file)
+	{
+		file << "Parallelepiped and Sphere" << endl;
+	}
+
+	void sphere::MultiMethodCaseTetrahedron(ofstream &file)
+	{
+		file << "Tetrahedron and Sphere" << endl;
+	}
 }
