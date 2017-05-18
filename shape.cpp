@@ -29,5 +29,7 @@ namespace shapes {
 		ifst >> sh->destiny;
 		return sh;
 	}
+
+
 	
 }
