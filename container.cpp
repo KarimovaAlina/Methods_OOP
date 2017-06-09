@@ -1,6 +1,4 @@
-#include "Secure.h"
-#include "container_atd.h"
-#include "list.h"
+#include "Main.h"
 
 
 namespace shapes 
@@ -76,7 +74,7 @@ namespace shapes
 		{
 			ofst << s + 1 << " :  ";
 			cur->sh->Out(ofst);
-			ofst << ", Destiny = " << cur->sh->destiny << ", Volume = " << cur->sh->Volume() << "." << endl;
+			
 			cur = cur->next;
 			++s;
 		}
@@ -99,7 +97,7 @@ namespace shapes
 	}
 
 
-	void container::Sort() 
+	void container::Sort(bool napr) 
 	{
 
 		for (int i = 0; i < n - 1; i++) 
@@ -107,7 +105,7 @@ namespace shapes
 			list* cur = cont;
 			for (int j = i + 1; j < n; j++) 
 			{
-				if (cur->sh->Compare(*(cur->next->sh))) 
+				if (cur->sh->Compare(*(cur->next->sh), napr)) 
 				{
 					shape *tmp = cur->sh;
 					cur->sh = cur->next->sh;

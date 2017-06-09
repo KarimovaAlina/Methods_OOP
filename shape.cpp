@@ -61,6 +61,7 @@ namespace shapes
 	{
 		ChckOutFile(ofst);
 		ofst << ", Melting temperature = " << temp;
+		ofst << ", Destiny = " << destiny << ", Volume = " << Volume() << "." << endl;
 	}
 
 
@@ -71,8 +72,11 @@ namespace shapes
 	}
 
 	
-	bool shape::Compare(shape &other) 
+	bool shape::Compare(shape &other, bool napr) 
 	{
-		return Volume() < other.Volume();
+		if(napr)
+			return Volume() < other.Volume();
+		else
+			return Volume() > other.Volume();
 	}
 }

@@ -31,5 +31,1451 @@ It is sphere: radius = 33, Melting temperature = 33, Destiny = 120.
 It is sphere: radius = 25, Melting temperature = 20, Destiny = 50.7.
 It is sphere: radius = 20, Melting temperature = 300, Destiny = 15.5.
 It is sphere: radius = 20, Melting temperature = 400, Destiny = 75.1.
+
+Multimethod:
+Parallelepiped and Sphere
+It is parallelepiped:  a = 100, b = 200, c = 300, Melting temperature = 1000, V = 6e+06
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 100, b = 200, c = 300, Melting temperature = 1000, V = 6e+06
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 100, b = 200, c = 300, Melting temperature = 1000, V = 6e+06
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 100, b = 200, c = 300, Melting temperature = 1000, V = 6e+06
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 100, b = 200, c = 300, Melting temperature = 1000, V = 6e+06
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 100, b = 200, c = 300, Melting temperature = 1000, V = 6e+06
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 100, b = 200, c = 300, Melting temperature = 1000, V = 6e+06
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 100, b = 200, c = 300, Melting temperature = 1000, V = 6e+06
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 100, b = 200, c = 300, Melting temperature = 1000, V = 6e+06
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 100, b = 200, c = 300, Melting temperature = 1000, V = 6e+06
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 100, b = 200, c = 300, Melting temperature = 1000, V = 6e+06
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+
+Parallelepiped and Tetrahedron
+It is parallelepiped:  a = 100, b = 200, c = 300, Melting temperature = 1000, V = 6e+06
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Parallelepiped and Tetrahedron
+It is parallelepiped:  a = 100, b = 200, c = 300, Melting temperature = 1000, V = 6e+06
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 100, b = 200, c = 300, Melting temperature = 1000, V = 6e+06
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+
+Parallelepiped and Tetrahedron
+It is parallelepiped:  a = 100, b = 200, c = 300, Melting temperature = 1000, V = 6e+06
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 100, b = 200, c = 300, Melting temperature = 1000, V = 6e+06
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 100, b = 200, c = 300, Melting temperature = 1000, V = 6e+06
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 100, b = 200, c = 300, Melting temperature = 1000, V = 6e+06
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 100, b = 200, c = 300, Melting temperature = 1000, V = 6e+06
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 4, V = 6
+
+Sphere and Sphere
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+
+Sphere and Sphere
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Sphere and Sphere
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Sphere and Sphere
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+
+Sphere and Sphere
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Sphere and Sphere
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Sphere and Sphere
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+
+Sphere and Parallelepiped
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+
+Sphere and Sphere
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+
+Sphere and Sphere
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+
+Sphere and Sphere
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+
+Sphere and Tetrahedron
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Sphere and Tetrahedron
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Sphere and Parallelepiped
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+
+Sphere and Tetrahedron
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+
+Sphere and Parallelepiped
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+
+Sphere and Parallelepiped
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+
+Sphere and Parallelepiped
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+
+Sphere and Parallelepiped
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 4, V = 6
+
+Sphere and Sphere
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+
+Sphere and Sphere
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Sphere and Sphere
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Sphere and Sphere
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+
+Sphere and Sphere
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Sphere and Sphere
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Sphere and Sphere
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+
+Sphere and Parallelepiped
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+
+Sphere and Sphere
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+
+Sphere and Sphere
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+
+Sphere and Sphere
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+
+Sphere and Tetrahedron
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Sphere and Tetrahedron
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Sphere and Parallelepiped
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+
+Sphere and Tetrahedron
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+
+Sphere and Parallelepiped
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+
+Sphere and Parallelepiped
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+
+Sphere and Parallelepiped
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+
+Sphere and Parallelepiped
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 4, V = 6
+
+Sphere and Sphere
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+
+Sphere and Sphere
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Sphere and Sphere
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Sphere and Sphere
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+
+Sphere and Sphere
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Sphere and Sphere
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Sphere and Sphere
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+
+Sphere and Parallelepiped
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+
+Sphere and Sphere
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+
+Sphere and Sphere
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+
+Sphere and Sphere
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+
+Sphere and Tetrahedron
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Sphere and Tetrahedron
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Sphere and Parallelepiped
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+
+Sphere and Tetrahedron
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+
+Sphere and Parallelepiped
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+
+Sphere and Parallelepiped
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+
+Sphere and Parallelepiped
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+
+Sphere and Parallelepiped
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 4, V = 6
+
+Sphere and Sphere
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+
+Sphere and Sphere
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Sphere and Sphere
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Sphere and Sphere
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+
+Sphere and Sphere
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Sphere and Sphere
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Sphere and Sphere
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+
+Sphere and Parallelepiped
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+
+Sphere and Sphere
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+
+Sphere and Sphere
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+
+Sphere and Sphere
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+
+Sphere and Tetrahedron
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Sphere and Tetrahedron
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Sphere and Parallelepiped
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+
+Sphere and Tetrahedron
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+
+Sphere and Parallelepiped
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+
+Sphere and Parallelepiped
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+
+Sphere and Parallelepiped
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+
+Sphere and Parallelepiped
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 4, V = 6
+
+Sphere and Sphere
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+
+Sphere and Sphere
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Sphere and Sphere
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Sphere and Sphere
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+
+Sphere and Sphere
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Sphere and Sphere
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Sphere and Sphere
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+
+Sphere and Parallelepiped
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+
+Sphere and Sphere
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+
+Sphere and Sphere
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+
+Sphere and Sphere
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+
+Sphere and Tetrahedron
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Sphere and Tetrahedron
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Sphere and Parallelepiped
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+
+Sphere and Tetrahedron
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+
+Sphere and Parallelepiped
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+
+Sphere and Parallelepiped
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+
+Sphere and Parallelepiped
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+
+Sphere and Parallelepiped
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 4, V = 6
+
+Sphere and Sphere
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+
+Sphere and Sphere
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Sphere and Sphere
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Sphere and Sphere
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+
+Sphere and Sphere
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Sphere and Sphere
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Sphere and Sphere
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+
+Sphere and Parallelepiped
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+
+Sphere and Sphere
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+
+Sphere and Sphere
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+
+Sphere and Sphere
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+
+Sphere and Tetrahedron
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Sphere and Tetrahedron
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Sphere and Parallelepiped
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+
+Sphere and Tetrahedron
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+
+Sphere and Parallelepiped
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+
+Sphere and Parallelepiped
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+
+Sphere and Parallelepiped
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+
+Sphere and Parallelepiped
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 4, V = 6
+
+Sphere and Sphere
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+
+Sphere and Sphere
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Sphere and Sphere
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Sphere and Sphere
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+
+Sphere and Sphere
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Sphere and Sphere
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Sphere and Sphere
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+
+Sphere and Parallelepiped
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+
+Sphere and Sphere
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+
+Sphere and Sphere
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+
+Sphere and Sphere
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+
+Sphere and Tetrahedron
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Sphere and Tetrahedron
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Sphere and Parallelepiped
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+
+Sphere and Tetrahedron
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+
+Sphere and Parallelepiped
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+
+Sphere and Parallelepiped
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+
+Sphere and Parallelepiped
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+
+Sphere and Parallelepiped
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 4, V = 6
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+
+Parallelepiped and Tetrahedron
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Parallelepiped and Tetrahedron
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+
+Parallelepiped and Tetrahedron
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 4, V = 6
+
+Sphere and Sphere
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+
+Sphere and Sphere
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Sphere and Sphere
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Sphere and Sphere
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+
+Sphere and Sphere
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Sphere and Sphere
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Sphere and Sphere
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+
+Sphere and Parallelepiped
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+
+Sphere and Sphere
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+
+Sphere and Sphere
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+
+Sphere and Sphere
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+
+Sphere and Tetrahedron
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Sphere and Tetrahedron
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Sphere and Parallelepiped
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+
+Sphere and Tetrahedron
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+
+Sphere and Parallelepiped
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+
+Sphere and Parallelepiped
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+
+Sphere and Parallelepiped
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+
+Sphere and Parallelepiped
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 4, V = 6
+
+Sphere and Sphere
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+
+Sphere and Sphere
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Sphere and Sphere
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Sphere and Sphere
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+
+Sphere and Sphere
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Sphere and Sphere
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Sphere and Sphere
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+
+Sphere and Parallelepiped
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+
+Sphere and Sphere
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+
+Sphere and Sphere
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+
+Sphere and Sphere
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+
+Sphere and Tetrahedron
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Sphere and Tetrahedron
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Sphere and Parallelepiped
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+
+Sphere and Tetrahedron
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+
+Sphere and Parallelepiped
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+
+Sphere and Parallelepiped
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+
+Sphere and Parallelepiped
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+
+Sphere and Parallelepiped
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 4, V = 6
+
+Sphere and Sphere
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+
+Sphere and Sphere
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Sphere and Sphere
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Sphere and Sphere
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+
+Sphere and Sphere
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Sphere and Sphere
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Sphere and Sphere
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+
+Sphere and Parallelepiped
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+
+Sphere and Sphere
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+
+Sphere and Sphere
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+
+Sphere and Sphere
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+
+Sphere and Tetrahedron
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Sphere and Tetrahedron
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Sphere and Parallelepiped
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+
+Sphere and Tetrahedron
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+
+Sphere and Parallelepiped
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+
+Sphere and Parallelepiped
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+
+Sphere and Parallelepiped
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+
+Sphere and Parallelepiped
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 4, V = 6
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+
+Tetrahedron and Parallelepiped
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+
+Tetrahedron and Tetrahedron
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Tetrahedron and Tetrahedron
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Tetrahedron and Parallelepiped
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+
+Tetrahedron and Tetrahedron
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+
+Tetrahedron and Parallelepiped
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+
+Tetrahedron and Parallelepiped
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+
+Tetrahedron and Parallelepiped
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+
+Tetrahedron and Parallelepiped
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 4, V = 6
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+
+Tetrahedron and Parallelepiped
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+
+Tetrahedron and Tetrahedron
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Tetrahedron and Tetrahedron
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Tetrahedron and Parallelepiped
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+
+Tetrahedron and Tetrahedron
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+
+Tetrahedron and Parallelepiped
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+
+Tetrahedron and Parallelepiped
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+
+Tetrahedron and Parallelepiped
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+
+Tetrahedron and Parallelepiped
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 4, V = 6
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+
+Parallelepiped and Tetrahedron
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Parallelepiped and Tetrahedron
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+
+Parallelepiped and Tetrahedron
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 4, V = 6
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+
+Tetrahedron and Parallelepiped
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+
+Tetrahedron and Sphere
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+
+Tetrahedron and Tetrahedron
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Tetrahedron and Tetrahedron
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Tetrahedron and Parallelepiped
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+
+Tetrahedron and Tetrahedron
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+
+Tetrahedron and Parallelepiped
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+
+Tetrahedron and Parallelepiped
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+
+Tetrahedron and Parallelepiped
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+
+Tetrahedron and Parallelepiped
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 4, V = 6
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+
+Parallelepiped and Tetrahedron
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Parallelepiped and Tetrahedron
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+
+Parallelepiped and Tetrahedron
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 4, V = 6
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+
+Parallelepiped and Tetrahedron
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Parallelepiped and Tetrahedron
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+
+Parallelepiped and Tetrahedron
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 4, V = 6
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+It is sphere: radius = 80, Melting temperature = 350, V = 2.1446e+06
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+It is sphere: radius = 54, Melting temperature = 45, V = 659564
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+It is sphere: radius = 50, Melting temperature = 500, V = 523583
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+It is sphere: radius = 44, Melting temperature = 44, V = 356807
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+It is sphere: radius = 33, Melting temperature = 33, V = 150528
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+It is parallelepiped:  a = 90, b = 100, c = 10, Melting temperature = 510, V = 90000
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+It is sphere: radius = 25, Melting temperature = 20, V = 65447.9
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+It is sphere: radius = 20, Melting temperature = 300, V = 33509.3
+
+Parallelepiped and Sphere
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+It is sphere: radius = 20, Melting temperature = 400, V = 33509.3
+
+Parallelepiped and Tetrahedron
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Parallelepiped and Tetrahedron
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+It is tetrahedron: side = 45, Melting temperature = 54, V = 10739.2
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+It is parallelepiped:  a = 10, b = 20, c = 30, Melting temperature = 400, V = 6000
+
+Parallelepiped and Tetrahedron
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+It is tetrahedron: side = 33, Melting temperature = 33, V = 4235.22
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+It is parallelepiped:  a = 5, b = 10, c = 15, Melting temperature = 470, V = 750
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+It is parallelepiped:  a = 5, b = 6, c = 7, Melting temperature = 8, V = 210
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+
+Parallelepiped and Parallelepiped
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 450, V = 6
+It is parallelepiped:  a = 1, b = 2, c = 3, Melting temperature = 4, V = 6
+
 Empty container. 
 Container contains 0 elements.

@@ -19,7 +19,7 @@ namespace shapes
 		virtual void Out(ofstream &ofst) = 0; // вывод
 
 		virtual double Volume() = 0;
-		bool Compare(shape &other);
+		bool Compare(shape &other, bool napr);
 
 		virtual void OutSphere(ofstream &ofst);
 

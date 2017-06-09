@@ -1,8 +1,5 @@
-#include "Secure.h"
-#include "container_atd.h"
-#include <fstream>
-#include <iostream>
-using namespace std;
+#include "main.h"
+
 using namespace shapes;
 
 
@@ -35,7 +32,7 @@ int main(int argc, char* argv[])
 	ofst << "Filled container. " << endl;
 
 	//c.Out(ofst);
-	c.Sort();
+	c.Sort(1);
 	c.Volume(ofst);
 
 	c.OutSphere(ofst);

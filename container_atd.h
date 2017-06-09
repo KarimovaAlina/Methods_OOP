@@ -16,7 +16,7 @@ namespace shapes
 		void ClearContainer(); // очистка контейнера от фигур
 
 		void Volume(ofstream &ofst);
-		void Sort();
+		void Sort(bool napr);
 
 		void MultiMethod(ofstream &file);
 		

@@ -1,6 +1,4 @@
-#include "Secure.h"
-#include "parallelepiped_atd.h"
-#include <fstream>
+#include "main.h"
 
 using namespace std;
 
